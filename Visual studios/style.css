@@ -1,0 +1,37 @@
+.nadpis11 {
+    color: brown;
+}
+.nadpis22 {
+    color: chocolate;
+}
+.nadpis33 {
+    color: aqua;
+}
+body {
+    background-image: url(krajina.jpg);
+    background-color: blue;
+}
+.ollist11 {
+    color: chartreuse;
+    list-style-type: upper-roman;
+}
+.ollist22 {
+    color: crimson;
+    list-style-type: circle;
+}
+.ollist33 {
+    color: cyan;
+    list-style-type: decimal;
+}
+.ullist11 {
+    color: black;
+    list-style-type: unset;
+}
+.ullist22 {
+    color: gold;
+    list-style-type: inherit;
+}
+.ullist33 {
+    color: indigo; 
+    list-style: inside;
+}
