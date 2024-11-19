@@ -17,19 +17,19 @@ body {
 }
 .ollist22 {
     color: crimson;
-    list-style-type: circle;
+    list-style-type: upper-roman;
 }
 .ollist33 {
     color: cyan;
-    list-style-type: decimal;
+    list-style-type: upper-roman;
 }
 .ullist11 {
     color: black;
-    list-style-type: unset;
+    list-style-type: square;
 }
 .ullist22 {
     color: gold;
-    list-style-type: inherit;
+    list-style-type: circle;
 }
 .ullist33 {
     color: indigo; 
